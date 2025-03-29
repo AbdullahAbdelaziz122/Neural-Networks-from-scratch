@@ -1,4 +1,4 @@
-```markdown
+
 # Implementing Neural Networks from Scratch
 
 This repository is an attempt to build neural networks from the ground up using Python. The goal is to understand the inner workings of neural networks by implementing them without relying on deep learning frameworks like TensorFlow or PyTorch.
@@ -13,4 +13,3 @@ This repository is an attempt to build neural networks from the ground up using 
 This implementation is purely code-based and does not include in-depth mathematical explanations.
 
 Stay tuned for updates as the project evolves!
-```
