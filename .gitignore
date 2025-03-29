@@ -1,1 +1,33 @@
 .ipynb_checkpoints/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+*.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings and workspace-specific files
+.vscode/
+*.code-workspace
+
+# PyCharm project settings
+.idea/
+*.iml
+
+# Logs and debugging
+logs/
+*.log
+*.out
+*.err
+debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+
