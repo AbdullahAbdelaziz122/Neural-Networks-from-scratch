@@ -11,5 +11,3 @@ This repository is an attempt to build neural networks from the ground up using 
 ## Mathematical Foundation
 
 This implementation is purely code-based and does not include in-depth mathematical explanations.
-
-Stay tuned for updates as the project evolves!
